@@ -11,7 +11,10 @@ connectDB();
 const app = express();
 
 app.use(cors({
-  origin: 'https://unified-web-operations-management-s-psi.vercel.app',
+  origin: [
+    'https://unified-web-operations-management-s-psi.vercel.app',
+    'https://unified-web-operations-managem-git-647e62-nitya-shrees-projects.vercel.app'
+  ],
   credentials: true,
 }));
 
