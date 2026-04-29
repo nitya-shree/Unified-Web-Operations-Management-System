@@ -36,3 +36,13 @@ Advanced search and filtering
 Author
 
 Nitya Shree
+
+
+<img width="1741" height="830" alt="image" src="https://github.com/user-attachments/assets/2f3f02c7-410c-495f-84c9-b710e6437d85" />
+<img width="1750" height="891" alt="image" src="https://github.com/user-attachments/assets/38a5f2a5-6004-493c-9018-d7906d5f785e" />
+<img width="1745" height="869" alt="image" src="https://github.com/user-attachments/assets/3e62cf62-aacd-4840-ac43-27bea849bce0" />
+<img width="1735" height="901" alt="image" src="https://github.com/user-attachments/assets/125999a7-c8c5-4825-bbf0-9a72ac6167a0" />
+
+
+
+
